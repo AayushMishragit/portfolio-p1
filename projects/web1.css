@@ -1,0 +1,164 @@
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    background-color: #00ffffd2;
+    animation-duration: 9s;
+    animation-delay: 105s;
+}
+#home{
+   
+    padding: 104px;
+    
+    
+}
+.card{
+    margin-left:113px ;
+    margin-bottom: 124px;
+    width: 416px;
+     background-color: rgb(5, 2, 29);
+    
+}
+
+i{
+    color: rgba(57, 110, 255, 0.76);
+    font-size: 34px;
+    padding:23px ;
+    
+    transition: all 0.3s ease-in-out; 
+    padding-left: 34px;   
+}
+i:hover{
+    
+    animation-delay: 10s;
+    color: aqua;
+    box-shadow: 0 0 40px rgba(0, 196, 163, 0.767),0 0 40px rgba(0, 196, 163, 0.767),0 0 40px rgba(0, 196, 163, 0.767);
+}
+
+#img{
+    align-content: center;
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin: 100px;
+    border-radius: 110px;
+    border: 8px solid #68ebd7;
+    box-shadow: #4efedc;
+    
+    
+   
+    
+}
+#banner{
+    background-color: rgb(4, 0, 29);
+}
+h3{
+  color:white;
+  padding: 40px ;
+  padding-left: 0px;
+  text-align:left;
+  
+}
+p{
+  color: white;
+}
+#myskills{
+  background-color: rgb(4, 0, 29);
+}
+#heading{
+  padding:57px;
+  text-align: center;
+  font-size: 47px;
+}
+#skillsection{       
+  
+  box-shadow: 0 0 30px rgba(1, 44, 109, 0.562),0 0 30px rgba(1, 44, 109, 0.562),0 0 30px rgb(1, 44, 109);
+  margin-left: 0px;
+  
+}
+ .card{
+    width: 484px;
+   
+ }
+
+#picture{
+  background-color: rgb(2, 0, 29);
+}
+  
+#picture h2{
+  padding: 245px 245px 37px 245px;
+  color:aqua;
+  font-size: 54px;
+} 
+.card-text{
+  padding-bottom:3px;
+  color: white;
+}
+
+.card-group .card{
+  box-shadow: 0 0 20px rgba(0, 85, 196, 0.692),0 0 20px rgba(0, 85, 196, 0.692),0 0 20px rgba(0, 85, 196, 0.692);
+  margin: 0.9%;
+}
+ 
+#cardpic {
+  background-color: rgb(2, 0, 29);
+  margin: 3.5%;
+}
+#cardpic .card {
+  margin: 23px;
+}
+#contact .bi{
+  animation-duration: 55s;
+  animation-delay: 3s;
+  color: #38c9acc9;
+  
+
+}
+#contact  #uno .bi:hover{
+  animation-delay: 10s;
+  color: aqua;
+    box-shadow: 0 0 40px rgba(0, 196, 163, 0.767),0 0 40px rgba(0, 196, 163, 0.767),0 0 40px rgba(0, 196, 163, 0.767);
+  
+
+}
+#footer  {
+  background-color: rgb(1, 114, 1);
+  color: white;
+  text-align: center;
+  padding-left: 36%;
+  
+
+}
+.col-md-6 h3{
+  font-size: 34px;
+  color: #baf712d2;
+}
+ @media screen {
+  
+ #picture .card-group .card:hover{
+  box-shadow: 0 0 40px rgb(126, 3, 228),0 0 40px rgb(126, 3, 228),0 0 40px rgb(126, 3, 228);
+ animation-delay: 90s;
+ animation-duration: 67s;
+}}
+#idcd:hover{
+color: #16a085;
+
+}
+#idcd .card-text:hover{
+   color: #022da5;
+   transform: scale(1.05);
+}
+.btn-outline-success{
+ perspective: 67px;
+ align-items: center;
+ margin: 50px;
+}
+*{
+  animation-duration: 356s;
+  animation-iteration-count: 3;
+  animation-delay: 120s;
+
+}
+html{
+  scroll-behavior: smooth;
+}
